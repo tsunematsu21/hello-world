@@ -1,6 +1,9 @@
 version: "3"
 
 services:
+  go:
+    build:
+      context: go
   rust:
     build:
       context: rust
