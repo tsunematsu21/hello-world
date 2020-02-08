@@ -4,6 +4,9 @@ services:
   go:
     build:
       context: go
+  python:
+    build:
+      context: python
   ruby:
     build:
       context: ruby
