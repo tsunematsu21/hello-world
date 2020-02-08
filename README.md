@@ -11,5 +11,6 @@ docker-compose run --rm $LANGUAGE
 
 Available `$LANGUAGE` are as below.
 * `go`: [The Go Programming Language](https://golang.org/)
+* `ruby`: [Ruby Programming Language](https://www.ruby-lang.org/)
 * `rust`: [Rust Programming Language](https://www.rust-lang.org/)
 * `typescript`: [TypeScript - JavaScript that scales.](https://www.typescriptlang.org/)
